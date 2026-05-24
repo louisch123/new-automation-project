@@ -1,5 +1,4 @@
-# new-automation-project 
-New Project, New Creation
+# new-automation-project
 
 
 
